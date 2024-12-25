@@ -1,0 +1,6 @@
+@DiscordOauth_HostAddress = https://localhost:5002
+
+GET {{DiscordOauth_HostAddress}}/login/
+Accept: application/json
+
+###
